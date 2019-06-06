@@ -17,6 +17,13 @@ Laravel’s philosophy is to develop PHP code in an elegant and simple way based
 ## Server Requirements
 - [Install Laravel with Apache and MySQL](https://davisalvarez.com/en/install-laravel-with-apache-and-mysql/).
 
+## Up And Running
+- Clone the repository
+- run composer install
+- Set a .env configuration file
+- run php artisan migrate
+- Read the tutorial
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
