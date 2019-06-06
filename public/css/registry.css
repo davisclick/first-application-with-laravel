@@ -1,0 +1,13 @@
+.inputWarning {
+    background-image: url(../Images/Warning_Icon_Red.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+.inputSuccess {
+    border-color: #335D89;
+    background: rgba(161, 208, 255, 0.26);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    background-image: none;
+}
+
